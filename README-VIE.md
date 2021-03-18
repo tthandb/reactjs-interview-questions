@@ -55,57 +55,57 @@ You can download the PDF and Epub version of this repository from the latest run
 |21 | [What are forward refs?](#what-are-forward-refs) |
 |22 | [Which is preferred option with in callback refs and findDOMNode()?](#which-is-preferred-option-with-in-callback-refs-and-finddomnode) |
 |23 | [Why are String Refs legacy?](#why-are-string-refs-legacy) |
-|24 | [What is Virtual DOM?](#what-is-virtual-dom) |
-|25 | [How Virtual DOM works?](#how-virtual-dom-works) |
-|26 | [What is the difference between Shadow DOM and Virtual DOM?](#what-is-the-difference-between-shadow-dom-and-virtual-dom) |
-|27 | [What is React Fiber?](#what-is-react-fiber) |
+|24 | [🇻🇳 What is Virtual DOM?](#what-is-virtual-dom) |
+|25 | [🇻🇳 How Virtual DOM works?](#how-virtual-dom-works) |
+|26 | [🇻🇳 What is the difference between Shadow DOM and Virtual DOM?](#what-is-the-difference-between-shadow-dom-and-virtual-dom) |
+|27 | [🇻🇳 What is React Fiber?](#what-is-react-fiber) |
 |28 | [What is the main goal of React Fiber?](#what-is-the-main-goal-of-react-fiber) |
-|29 | [What are controlled components?](#what-are-controlled-components) |
-|30 | [What are uncontrolled components?](#what-are-uncontrolled-components) |
-|31 | [What is the difference between createElement and cloneElement?](#what-is-the-difference-between-createelement-and-cloneelement) |
-|32 | [What is Lifting State Up in React?](#what-is-lifting-state-up-in-react) |
-|33 | [What are the different phases of component lifecycle?](#what-are-the-different-phases-of-component-lifecycle) |
-|34 | [What are the lifecycle methods of React?](#what-are-the-lifecycle-methods-of-react) |
-|35 | [What are Higher-Order components?](#what-are-higher-order-components) |
-|36 | [How to create props proxy for HOC component?](#how-to-create-props-proxy-for-hoc-component) |
-|37 | [What is context?](#what-is-context) |
-|38 | [What is children prop?](#what-is-children-prop) |
-|39 | [How to write comments in React?](#how-to-write-comments-in-react) |
-|40 | [What is the purpose of using super constructor with props argument?](#what-is-the-purpose-of-using-super-constructor-with-props-argument) |
-|41 | [What is reconciliation?](#what-is-reconciliation) |
-|42 | [How to set state with a dynamic key name?](#how-to-set-state-with-a-dynamic-key-name) |
-|43 | [What would be the common mistake of function being called every time the component renders?](#what-would-be-the-common-mistake-of-function-being-called-every-time-the-component-renders) |
-|44 | [Is lazy function supports named exports?](#is-lazy-function-supports-named-exports) |
-|45 | [Why React uses className over class attribute?](#why-react-uses-classname-over-class-attribute) |
-|46 | [What are fragments?](#what-are-fragments) |
-|47 | [Why fragments are better than container divs?](#why-fragments-are-better-than-container-divs) |
-|48 | [What are portals in React?](#what-are-portals-in-react) |
-|49 | [What are stateless components?](#what-are-stateless-components) |
-|50 | [What are stateful components?](#what-are-stateful-components) |
-|51 | [How to apply validation on props in React?](#how-to-apply-validation-on-props-in-react) |
-|52 | [What are the advantages of React?](#what-are-the-advantages-of-react) |
-|53 | [What are the limitations of React?](#what-are-the-limitations-of-react) |
-|54 | [What are error boundaries in React v16](#what-are-error-boundaries-in-react-v16) |
-|55 | [How error boundaries handled in React v15?](#how-error-boundaries-handled-in-react-v15) |
-|56 | [What are the recommended ways for static type checking?](#what-are-the-recommended-ways-for-static-type-checking) |
-|57 | [What is the use of react-dom package?](#what-is-the-use-of-react-dom-package) |
-|58 | [What is the purpose of render method of react-dom?](#what-is-the-purpose-of-render-method-of-react-dom) |
+|29 | [🇻🇳 What are controlled components?](#what-are-controlled-components) |
+|30 | [🇻🇳 What are uncontrolled components?](#what-are-uncontrolled-components) |
+|31 | [🇻🇳 What is the difference between createElement and cloneElement?](#what-is-the-difference-between-createelement-and-cloneelement) |
+|32 | [🇻🇳 What is Lifting State Up in React?](#what-is-lifting-state-up-in-react) |
+|33 | [🇻🇳 What are the different phases of component lifecycle?](#what-are-the-different-phases-of-component-lifecycle) |
+|34 | [🇻🇳 What are the lifecycle methods of React?](#what-are-the-lifecycle-methods-of-react) |
+|35 | [🇻🇳 What are Higher-Order components?](#what-are-higher-order-components) |
+|36 | [🇻🇳 How to create props proxy for HOC component?](#how-to-create-props-proxy-for-hoc-component) |
+|37 | [🇻🇳 What is context?](#what-is-context) |
+|38 | [🇻🇳 What is children prop?](#what-is-children-prop) |
+|39 | [🇻🇳 How to write comments in React?](#how-to-write-comments-in-react) |
+|40 | [🇻🇳 What is the purpose of using super constructor with props argument?](#what-is-the-purpose-of-using-super-constructor-with-props-argument) |
+|41 | [🇻🇳 What is reconciliation?](#what-is-reconciliation) |
+|42 | [🇻🇳 How to set state with a dynamic key name?](#how-to-set-state-with-a-dynamic-key-name) |
+|43 | [🇻🇳 What would be the common mistake of function being called every time the component renders?](#what-would-be-the-common-mistake-of-function-being-called-every-time-the-component-renders) |
+|44 | [🇻🇳 Is lazy function supports named exports?](#is-lazy-function-supports-named-exports) |
+|45 | [🇻🇳 Why React uses className over class attribute?](#why-react-uses-classname-over-class-attribute) |
+|46 | [🇻🇳 What are fragments?](#what-are-fragments) |
+|47 | [🇻🇳 Why fragments are better than container divs?](#why-fragments-are-better-than-container-divs) |
+|48 | [🇻🇳 What are portals in React?](#what-are-portals-in-react) |
+|49 | [🇻🇳 What are stateless components?](#what-are-stateless-components) |
+|50 | [🇻🇳 What are stateful components?](#what-are-stateful-components) |
+|51 | [🇻🇳 How to apply validation on props in React?](#how-to-apply-validation-on-props-in-react) |
+|52 | [🇻🇳 What are the advantages of React?](#what-are-the-advantages-of-react) |
+|53 | [🇻🇳 What are the limitations of React?](#what-are-the-limitations-of-react) |
+|54 | [🇻🇳 What are error boundaries in React v16?](#what-are-error-boundaries-in-react-v16) |
+|55 | [🇻🇳 How error boundaries handled in React v15?](#how-error-boundaries-handled-in-react-v15) |
+|56 | [🇻🇳 What are the recommended ways for static type checking?](#what-are-the-recommended-ways-for-static-type-checking) |
+|57 | [🇻🇳 What is the use of react-dom package?](#what-is-the-use-of-react-dom-package) |
+|58 | [🇻🇳 What is the purpose of render method of react-dom?](#what-is-the-purpose-of-render-method-of-react-dom) |
 |59 | [What is ReactDOMServer?](#what-is-reactdomserver) |
-|60 | [How to use InnerHtml in React?](#how-to-use-innerhtml-in-react) |
-|61 | [How to use styles in React?](#how-to-use-styles-in-react) |
-|62 | [How events are different in React?](#how-events-are-different-in-react) |
-|63 | [What will happen if you use setState in constructor?](#what-will-happen-if-you-use-setstate-in-constructor) |
-|64 | [What is the impact of indexes as keys?](#what-is-the-impact-of-indexes-as-keys) |
+|60 | [🇻🇳 How to use InnerHtml in React?](#how-to-use-innerhtml-in-react) |
+|61 | [🇻🇳 How to use styles in React?](#how-to-use-styles-in-react) |
+|62 | [🇻🇳 How events are different in React?](#how-events-are-different-in-react) |
+|63 | [🇻🇳 What will happen if you use setState in constructor?](#what-will-happen-if-you-use-setstate-in-constructor) |
+|64 | [🇻🇳 What is the impact of indexes as keys?](#what-is-the-impact-of-indexes-as-keys) |
 |65 | [Is it good to use setState() in componentWillMount() method?](#is-it-good-to-use-setstate-in-componentwillmount-method) |
 |66 | [What will happen if you use props in initial state?](#what-will-happen-if-you-use-props-in-initial-state) |
 |67 | [How do you conditionally render components?](#how-do-you-conditionally-render-components)
 |68 | [Why we need to be careful when spreading props on DOM elements??](#why-we-need-to-be-careful-when-spreading-props-on-dom-elements) |
 |69 | [How you use decorators in React?](#how-you-use-decorators-in-react) |
-|70 | [How do you memoize a component?](#how-do-you-memoize-a-component) |
+|70 | [🇻🇳 How do you memoize a component?](#how-do-you-memoize-a-component) |
 |71 | [How you implement Server-Side Rendering or SSR?](#how-you-implement-server-side-rendering-or-ssr) |
 |72 | [How to enable production mode in React?](#how-to-enable-production-mode-in-react) |
-|73 | [What is CRA and its benefits?](#what-is-cra-and-its-benefits) |
-|74 | [What is the lifecycle methods order in mounting?](#what-is-the-lifecycle-methods-order-in-mounting) |
+|73 | [🇻🇳 What is CRA and its benefits?](#what-is-cra-and-its-benefits) |
+|74 | [🇻🇳 What is the lifecycle methods order in mounting?](#what-is-the-lifecycle-methods-order-in-mounting) |
 |75 | [What are the lifecycle methods going to be deprecated in React v16?](#what-are-the-lifecycle-methods-going-to-be-deprecated-in-react-v16) |
 |76 | [What is the purpose of getDerivedStateFromProps() lifecycle method?](#what-is-the-purpose-of-getderivedstatefromprops-lifecycle-method) |
 |77 | [What is the purpose of getSnapshotBeforeUpdate() lifecycle method?](#what-is-the-purpose-of-getsnapshotbeforeupdate-lifecycle-method) |
@@ -113,12 +113,12 @@ You can download the PDF and Epub version of this repository from the latest run
 |79 | [What is the recommended way for naming components?](#what-is-the-recommended-way-for-naming-components) |
 |80 | [What is the recommended ordering of methods in component class?](#what-is-the-recommended-ordering-of-methods-in-component-class) |
 |81 | [What is a switching component?](#what-is-a-switching-component) |
-|82 | [Why we need to pass a function to setState()?](#why-we-need-to-pass-a-function-to-setstate) |
-|83 | [What is strict mode in React?](#what-is-strict-mode-in-react) |
+|82 | [🇻🇳 Why we need to pass a function to setState()?](#why-we-need-to-pass-a-function-to-setstate) |
+|83 | [🇻🇳 What is strict mode in React?](#what-is-strict-mode-in-react) |
 |84 | [What are React Mixins?](#what-are-react-mixins) |
 |85 | [Why is isMounted() an anti-pattern and what is the proper solution?](#why-is-ismounted-an-anti-pattern-and-what-is-the-proper-solution) |
 |86 | [What are the Pointer Events supported in React?](#what-are-the-pointer-events-supported-in-react) |
-|87 | [Why should component names start with capital letter?](#why-should-component-names-start-with-capital-letter) |
+|87 | [🇻🇳 Why should component names start with capital letter?](#why-should-component-names-start-with-capital-letter) |
 |88 | [Are custom DOM attributes supported in React v16?](#are-custom-dom-attributes-supported-in-react-v16) |
 |89 | [What is the difference between constructor and getInitialState?](#what-is-the-difference-between-constructor-and-getinitialstate) |
 |90 | [Can you force a component to re-render without calling setState?](#can-you-force-a-component-to-re-render-without-calling-setstate) |
@@ -909,13 +909,13 @@ You can download the PDF and Epub version of this repository from the latest run
 
    **[⬆ Back to Top](#table-of-contents)**
     
-24. ### Virtual DOM là gì?
+24. ### What is Virtual DOM?
 
     *Virtual DOM* (VDOM) là một phiên bản mô phỏng lại *Real DOM* trong bộ nhớ. Nó có chức năng biểu diễn toàn bộ UI vào trong bộ nhớ và được đồng bộ hóa với "real" DOM. Đây là bước xảy ra sau khi hàm render được gọi và trước khi các element hiển thị ra màn hình. Toàn bộ quá trình này gọi là *reconciliation*.
 
    **[⬆ Back to Top](#table-of-contents)**
     
-25. ### Virtual DOM hoạt động như thế nào?
+25. ### How Virtual DOM works?
 
     The *Virtual DOM* hoạt động như sau:
 
@@ -941,7 +941,7 @@ You can download the PDF and Epub version of this repository from the latest run
 
    **[⬆ Back to Top](#table-of-contents)**
     
-27. ### React Fiber là gì?
+27. ### What is React Fiber?
 
     Fiber is the new *reconciliation* engine or reimplementation of core algorithm in React v16. The goal of React Fiber is to increase its suitability for areas like animation, layout, gestures, ability to pause, abort, or reuse work and assign priority to different types of updates; and new concurrency primitives.
 
@@ -954,9 +954,9 @@ You can download the PDF and Epub version of this repository from the latest run
 
    **[⬆ Back to Top](#table-of-contents)**
     
-29. ### Controlled Component là gì?
+29. ### What are controlled components?
 
-    **Controlled Component** là component kiểm soát các giá trị input do người dùng nhập vào thông qua các form. Tức là mọi giá trị thay đổi đều phải có hàm xử lý tương ứng.
+    **Controlled Components** là các component kiểm soát các giá trị input do người dùng nhập vào thông qua các form. Tức là mọi giá trị thay đổi đều phải có hàm xử lý tương ứng.
 
     Ví dụ, để viết hoa tất cả các chữ cái, ta dùng hàm handleChange như dưới đây,
 
@@ -971,7 +971,7 @@ You can download the PDF and Epub version of this repository from the latest run
     
 30. ### What are uncontrolled components?
 
-    **Uncontrolled Component** là component mà lưu trữ state một cách nội bộ, và nếu cần lấy các value của component thì bạn phải dùng ref để truy cập vào DOM. Nó gần giống như HTML truyền thống.
+    **Uncontrolled Component** là các component mà lưu trữ state một cách nội bộ, và nếu cần lấy các value của component thì bạn phải dùng ref để truy cập vào DOM. Nó gần giống như HTML truyền thống.
 
     Dưới đây là component UserProfile, dùng ref để lấy `name` input.
 
@@ -1007,7 +1007,7 @@ You can download the PDF and Epub version of this repository from the latest run
 
    **[⬆ Back to Top](#table-of-contents)**
     
-31. ### Khác nhau giữa createElement và cloneElement?
+31. ### What is the difference between createElement and cloneElement?
     
     JSX elements được chuyển sang các hàm `React.createElement()` để tạo ra các React elements.
 
@@ -1016,13 +1016,13 @@ You can download the PDF and Epub version of this repository from the latest run
 
    **[⬆ Back to Top](#table-of-contents)**
     
-32. ### Lifting State Up trong React là gì?
+32. ### What is Lifting State Up in React?
 
     Khi một số component cần share các chaging data chung, React khuyên dùng *lift the shared state up*. Nghĩa là nếu hai component con sử dụng chung data từ một component cha, thì hãy để component quản lý data đó thay vì giữ dưới dạng state cục bộ trong từng component con. 
 
    **[⬆ Back to Top](#table-of-contents)**
     
-33. ### Sự khác nhau giữa các lifecycle của một component?
+33. ### What are the different phases of component lifecycle?
 
     Lifecycle của một component gồm có 3 phase riêng biệt như sau:
 
@@ -1052,7 +1052,7 @@ You can download the PDF and Epub version of this repository from the latest run
 
    **[⬆ Back to Top](#table-of-contents)**
     
-34. ### Nêu các phương thức lifecycle của React?
+34. ### What are the lifecycle methods of React?
 
     Trước React 16.3
 
@@ -1076,7 +1076,7 @@ You can download the PDF and Epub version of this repository from the latest run
 
    **[⬆ Back to Top](#table-of-contents)**
     
-35. ### Higher-Order Components là gì?
+35. ### What are Higher-Order components?
 
     Một *higher-order component* (*HOC*) là một hàm lấy đầu vào là một component và trả về cũng là một component. Về cơ bản thì nó là một pattern bắt nguồn từ React's compositional nature.
 
@@ -1096,7 +1096,7 @@ You can download the PDF and Epub version of this repository from the latest run
 
    **[⬆ Back to Top](#table-of-contents)**
     
-36. ### Tạo props proxy cho HOC component như thế nào?
+36. ### How to create props proxy for HOC component?
 
     Bạn có thể thêm hoặc chỉnh sửa props truyền vào component sử dụng *props proxy* pattern như sau:
 
@@ -1120,7 +1120,7 @@ You can download the PDF and Epub version of this repository from the latest run
 
    **[⬆ Back to Top](#table-of-contents)**
     
-37. ### Context là gì?
+37. ### What is context?
 
     *Context* cung cấp một cách để truyền data qua component tree mà không cần truyền bằng props xuống dần từng level.
 
@@ -1133,8 +1133,7 @@ You can download the PDF and Epub version of this repository from the latest run
 
    **[⬆ Back to Top](#table-of-contents)**
     
-38. ### Children prop là gì
-?
+38. ### What is children prop?
 
     *Children* là một prop (`this.props.children`) cho phép bạn truyền các component như prop data vào các component khác. Component tree được đặt giữa hai tag của component sẽ được truyền tới component đó như là một `children` prop.
 
@@ -1161,9 +1160,9 @@ You can download the PDF and Epub version of this repository from the latest run
 
    **[⬆ Back to Top](#table-of-contents)**
     
-39. ### Làm thế nào để viết comment trong React?
+39. ### How to write comments in React?
 
-    The comments in React/JSX are similar to JavaScript Multiline comments but are wrapped in curly braces.
+    Comments trong React/JSX giống JavaSCript Multiline nhưng được bọc trong dấy ngoặc nhọn.
 
     **Single-line comments:**
 
@@ -1187,7 +1186,7 @@ You can download the PDF and Epub version of this repository from the latest run
 
    **[⬆ Back to Top](#table-of-contents)**
     
-40. ### Mục đích của việc sử dụng super constructor với đối số props?
+40. ### What is the purpose of using super constructor with props argument?
 
     Hàm constructor của child class sẽ không thể dùng tham chiếu `this` nếu như `super()` không được gọi. Mục đích của việc truyền props vào `super()` là để constructor của child component có thể truy cập được `this.props`.
 
@@ -1228,14 +1227,14 @@ You can download the PDF and Epub version of this repository from the latest run
 
    **[⬆ Back to Top](#table-of-contents)**
     
-41. ### Reconciliation là gì?
+41. ### What is reconciliation?
 
     Khi props hoặc state thay đổi, React sẽ quyết định real DOM có cần phải update hay không bằng cách so sánh phần tử mới với phần tử được render trước đó. Nếu khác nhau, React sẽ update DOM. Quá trình này gọi là *reconciliation*.
 
 
    **[⬆ Back to Top](#table-of-contents)**
     
-42. ### Làm thế nào để set state với một key name động?
+42. ### How to set state with a dynamic key name?
 
     Nếu bạn sử dụng ES6 hoặc trình dịch Babel để chuyển đổi code JSX thì bạn có thể set được state với key name động bằng *computed property names*
 
@@ -1248,7 +1247,7 @@ You can download the PDF and Epub version of this repository from the latest run
 
    **[⬆ Back to Top](#table-of-contents)**
     
-43. ### Có một số hàm sẽ bị gọi lại liên tục mỗi lần component render, lỗi thường gặp ở đây là gì?
+43. ### What would be the common mistake of function being called every time the component renders?
 
     Hàm sẽ không được gọi nếu ta truyền hàm dưới dạng tham số
     ```jsx harmony
@@ -1269,7 +1268,7 @@ You can download the PDF and Epub version of this repository from the latest run
 
    **[⬆ Back to Top](#table-of-contents)**
     
-44. ### Lazy function có hỗ trợ named exports không?
+44. ### Is lazy function supports named exports?
     Không, hiện tại hàm `React.lazy` chỉ hỗ trợ default exports. Nếu muốn import modules dưới dạng named exports, bạn có thể tạo một module reexport lại nó. Việc này đảm bảo rằng tree shaking vẫn hoạt động và không kéo theo những component không sử dụng.
     Hãy lấy một file component trong đó exports nhiều named components,
 
@@ -1291,7 +1290,7 @@ You can download the PDF and Epub version of this repository from the latest run
 
    **[⬆ Back to Top](#table-of-contents)**
     
-45. ### Tại sao React sử dụng thuộc tính `className` thay cho `class`?
+45. ### Why React uses className over class attribute?
 
     `class` là một keyword trong JavaScript, và JSX là một extension của JavaScript. Đó là lý do chính mà React lại sử dụng `className` thay cho `class`. Truyền một string dưới dạng `className` prop.
 
@@ -1304,7 +1303,7 @@ You can download the PDF and Epub version of this repository from the latest run
 
    **[⬆ Back to Top](#table-of-contents)**
     
-46. ### Fragments là gì?
+46. ### What are fragments?
 
     Là một pattern phổ biến trong React sử dụng cho component để return về nhiều elements. *Fragments* cho phép bạn nhóm một danh sách các children mà không cần bổ sung thêm node vào DOM.
 
@@ -1336,7 +1335,7 @@ You can download the PDF and Epub version of this repository from the latest run
 
    **[⬆ Back to Top](#table-of-contents)**
     
-47. ### Vì sao fragments tốt hơn container div?
+47. ### Why fragments are better than container divs?
     Dưới đây là các lý do,
 
     1. Fragments nhanh hơn một chút và tốn ít bộ nhớ hơn vì không tạo thêm DOM node. Điều này sẽ chỉ thấy rõ ràng khi áp dụng vào một DOM tree lớn.
@@ -1346,7 +1345,7 @@ You can download the PDF and Epub version of this repository from the latest run
 
    **[⬆ Back to Top](#table-of-contents)**
     
-48. ### Portals trong React là gì?
+48. ### What are portals in React?
 
     *Portal* là một cách được khuyến nghị để render children thành một DOM node tồn tại bên ngoài DOM hierarchy của component cha.
 
@@ -1404,7 +1403,7 @@ You can download the PDF and Epub version of this repository from the latest run
 
    **[⬆ Back to Top](#table-of-contents)**
     
-51. ### Cách áp dụng validation trên props trong React?
+51. ### How to apply validation on props in React?
 
     Khi ứng dụng chạy trong *development mode*, React sẽ tự động check tất cả các props được set trên component để chắc chắn rằng chúng có *correct type*. Nếu type không đúng, React sẽ hiển thị warning messages lên console. Trong *production mode*, chúng sẽ được ẩn để đỡ ảnh hưởng tới hiệu năng. Các props phải có thì được định nghĩa bằng `issRequired`.
 
@@ -1469,7 +1468,7 @@ You can download the PDF and Epub version of this repository from the latest run
 
    **[⬆ Back to Top](#table-of-contents)**
     
-52. ### Nêu các lợi ích của React?
+52. ### What are the limitations of React?
     Dưới đây là list các lợi ích chính của React,
 
     1. Tăng hiệu năng với *Virtual DOM*.
@@ -1481,7 +1480,7 @@ You can download the PDF and Epub version of this repository from the latest run
 
    **[⬆ Back to Top](#table-of-contents)**
     
-53. ### Nêu các hạn chế của React?
+53. ### What are the limitations of React?
     Bên cạnh các lợi ích, React cũng có một số hạn chế,
 
     1. React chỉ là view library, không phải full framework.
@@ -1493,7 +1492,7 @@ You can download the PDF and Epub version of this repository from the latest run
 
    **[⬆ Back to Top](#table-of-contents)**
     
-54. ### Error boundaries trong React v16 là gì?
+54. ### What are error boundaries in React v16?
 
     *Error boundaries* là các component catch JavaScript errors ở bất kỳ chỗ nào trong child component tree, log các errors đó ra, và hiển thị một UI dự phòng thay vì để cả component tree crash.
 
@@ -1537,21 +1536,21 @@ You can download the PDF and Epub version of this repository from the latest run
 
    **[⬆ Back to Top](#table-of-contents)**
     
-55. ### Cách Error boundaries xử lý trong React v15?
+55. ### How error boundaries handled in React v15?
 
     React v15 cung cấp phương thức `unstable_handleError` (trong React v16 phương thức này đổi tên thành `componentDidCatch`) để support cho *error boundaries*.
 
 
    **[⬆ Back to Top](#table-of-contents)**
     
-56. ### Các cách nào được khuyến nghị để check static type?
+56. ### What are the recommended ways for static type checking?
 
     Thông thường chúng ta sử dụng *PropTypes library* (`React.PropTypes` đổi thành `prop-types` package từ React v15.5) cho việc *type checking* trong ứng dụng React. Trong các trường hợp code bases lớn, nên sử dụng các *static type checkers* như Flow hay TypeScript vì chúng thực hiện type checking ngay khi compile và cùng cấp các bộ auto-completion.
 
 
    **[⬆ Back to Top](#table-of-contents)**
     
-57. ### Công dụng của `react-dom` package là gì?
+57. ### What is the use of react-dom package?
 
     `react-dom` package cung cấp các *phương thức DOM-specific* có thể sử dụng ở level cao nhất trong app của bạn. Hầu hết các components đều không yêu cầu sử dụng module này. Một vài phương thức của package này là:
 
@@ -1564,7 +1563,7 @@ You can download the PDF and Epub version of this repository from the latest run
 
    **[⬆ Back to Top](#table-of-contents)**
     
-58. ### Mục đích của phương thức render của `react-dom` là gì?
+58. ### What is the purpose of render method of react-dom?
 
     Phương thức này dùng để render một React element vào DOM trong container được cung cấp và return một reference tới component. Nếu element đó đã được render vào container từ trước, nó sẽ thực hiện update và chỉ thay đổi DOM nếu như cần thiết.
 
@@ -1603,7 +1602,7 @@ You can download the PDF and Epub version of this repository from the latest run
 
    **[⬆ Back to Top](#table-of-contents)**
     
-60. ### Sử dựng innerHTML trong React như thế nào?
+60. ### How to use InnerHtml in React?
 
     Thuộc tính `dangerouslySetInnerHTML` được React sử dụng để thay thế cho `innerHTML` trong browser DOM. Giống như `innerHTML`, sử dụng thuộc tính này có thể bị tấn công  cross-site scripting (XSS). Bạn chỉ cần truyền một `__html` object là key và HTML text là value.
 
@@ -1622,7 +1621,7 @@ You can download the PDF and Epub version of this repository from the latest run
 
    **[⬆ Back to Top](#table-of-contents)**
     
-61. ### Sử dụng style trong React như thế nào?
+61. ### How to use styles in React?
 
     Thuộc tính `style` nhận một JavaScript object với các thuộc tính viết dạng camelCased (thay vì là một CSS string thông thường) để cho phù hợp với style của các thuộc tính khác trong DOM và ngăn chặn các lỗ hổng bảo mật XSS.
 
@@ -1642,7 +1641,7 @@ You can download the PDF and Epub version of this repository from the latest run
 
    **[⬆ Back to Top](#table-of-contents)**
     
-62. ### Các events khác nhau như thế nào trong React?
+62. ### How events are different in React?
 
     Handling events trong React elements có vài sự khác biệt về cú pháp:
 
@@ -1652,14 +1651,14 @@ You can download the PDF and Epub version of this repository from the latest run
 
    **[⬆ Back to Top](#table-of-contents)**
     
-63. ### Điều gì sẽ xảy ra nếu bạn sử dụng `setState()` trong constructor?
+63. ### What will happen if you use setState in constructor?
 
     Khi sử dụng `setState()`, ngoài việc gán giá trị cho `state`, React cũng sẽ re-renders component và các children. Bạn sẽ nhận được lỗi như sau: *Can only update a mounted or mounting component.* Do đó chúng ta cần dùng `this.state` để khởi tạo biến `state` trong constructor.
 
 
    **[⬆ Back to Top](#table-of-contents)**
     
-64. ### Tác động của các indexes khi được dùng như key là gì?
+64. ### What is the impact of indexes as keys?
 
     Các keys nên ổn định, có thể tính toán và độc nhất để React có thể tìm được các elements.
 
@@ -1830,7 +1829,7 @@ You can download the PDF and Epub version of this repository from the latest run
 
    **[⬆ Back to Top](#table-of-contents)**
     
-70. ### Memoize một component như thế nào?
+70. ### How do you memoize a component?
 
     React có nhiều thư viện memoize có sẵn có thể dùng lên các function components.
 
@@ -1885,7 +1884,7 @@ You can download the PDF and Epub version of this repository from the latest run
 
    **[⬆ Back to Top](#table-of-contents)**
     
-73. ### CRA là gì và các lợi ích của nó?
+73. ### What is CRA and its benefits?
 
     `create-react-app` CLI tool cho phép chúng ta khởi tạo và chạy React app một cách nhanh chóng mà không cần các bước config phức tạp.
 
@@ -1916,7 +1915,7 @@ You can download the PDF and Epub version of this repository from the latest run
 
    **[⬆ Back to Top](#table-of-contents)**
     
-74. ### Thứ tự các lifecycle methods khi mounting là gì?
+74. ### What is the lifecycle methods order in mounting?
 
     The lifecycle methods được gọi theo thứ tự dưới đây khi một đối tượng của component được khởi tạo và insert vào DOM.
 
